@@ -1,0 +1,1 @@
+$('#contributions').load('https://github.com/ErtasBunyamin');
