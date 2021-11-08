@@ -1,1 +1,1 @@
-$('#contributions').load('https://github.com/ErtasBunyamin');
+//$('#contributions').load('https://github.com/ErtasBunyamin');
